@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/65342304/128598569-8c19710c-50f6-4523-
 
 ### How to Run?
 1. Open **Facebook** Folder in IDE
-2. Run **MainPage.class** file as- **java MainPage**
+2. Run **MainPage.class** file in cmd as- **java MainPage**
 3. Hit Enter
 
 ![How to Run](https://user-images.githubusercontent.com/65342304/128592698-414065e5-ebbf-468a-bf82-e74649e37ed4.gif)
