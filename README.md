@@ -6,6 +6,13 @@
 #### It is based on one of the applications of graph i.e. "Social Media Networking"
 
 <br/>
+
+<hr/>
+
+### Working
+
+https://user-images.githubusercontent.com/65342304/128598569-8c19710c-50f6-4523-8523-cf1b6ce76e3b.mp4
+
 <hr/>
 
 ### How to Run?
@@ -23,8 +30,8 @@
 
  1. Create New Account
  
- ![Sign Up](https://user-images.githubusercontent.com/65342304/128593149-3fba97c3-5364-4e4b-8d63-139438bb9e14.gif)
- 
+ ![Sign Up](https://user-images.githubusercontent.com/65342304/128598454-50f4e9f5-52fd-4187-b29c-b0c7789e3a66.gif)
+
 <p>&nbsp;</p>
 
  2. Login to Your Account
