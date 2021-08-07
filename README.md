@@ -1,6 +1,6 @@
 # Facebook Clone 
 
-### Mini project - Representation of Social Media using Graph Data Structure in Java
+### Mini Project - Representation of Social Media using Graph Data Structure in Java
 
 
 #### It is based on one of the applications of graph i.e. "Social Media Networking"
