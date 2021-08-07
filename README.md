@@ -8,6 +8,12 @@
 <br/>
 <hr/>
 
+### How to Run?
+Open **Facebook** Folder in IDE
+
+Run **MainPage.class** file as- **java MainPage**
+<hr/>
+
 ### Features ###
 - You can create new account
 - Login to Your Account
