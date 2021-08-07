@@ -17,7 +17,6 @@
 
 <hr/>
 
-
 ### Features
 
 <p>&nbsp;</p>
@@ -32,9 +31,26 @@
  
  ![Login](https://user-images.githubusercontent.com/65342304/128593302-18b9fa92-dce4-4ca7-a519-773741f00158.gif)
 
+<p>&nbsp;</p>
+
  3. Send Friend Request
- 4. Accept or Delete Friend Request
- 5. View Friend List
+ 
+ ![Send Friend Request](https://user-images.githubusercontent.com/65342304/128594870-5f2e9b58-b5a1-467d-af79-fbed718ad290.gif)
+ 
+<p>&nbsp;</p>
+
+ 4. View Friend List
+ 
+ ![Show Friend List](https://user-images.githubusercontent.com/65342304/128596094-6a0dd1a0-45ee-4195-b9fd-78d699ba694c.gif)
+
+<p>&nbsp;</p>
+
+ 5. Accept or Delete Friend Request
+ 
+ ![Accept or Delete Request](https://user-images.githubusercontent.com/65342304/128596236-c44d9abb-eca7-4696-bc2a-888ff669d9d7.gif)
+ 
+<p>&nbsp;</p>
+ 
  6. Search Profile
  7. See Mutual Friends
  8. View Your Profile
