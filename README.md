@@ -29,14 +29,14 @@
 
  2. Login to Your Account
  
- ![Login](https://user-images.githubusercontent.com/65342304/128593302-18b9fa92-dce4-4ca7-a519-773741f00158.gif)
+ ![Login](https://user-images.githubusercontent.com/65342304/128596424-e40c6ac7-92ee-4fc4-b83f-40f5badd6149.gif)
 
 <p>&nbsp;</p>
 
  3. Send Friend Request
  
- ![Send Friend Request](https://user-images.githubusercontent.com/65342304/128594870-5f2e9b58-b5a1-467d-af79-fbed718ad290.gif)
- 
+ ![Send Friend Request](https://user-images.githubusercontent.com/65342304/128596568-717d8fee-dfe1-4deb-b49d-c47a760c3496.gif)
+
 <p>&nbsp;</p>
 
  4. View Friend List
