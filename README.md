@@ -9,13 +9,17 @@
 <hr/>
 
 ### How to Run?
-Open **Facebook** Folder in IDE
+1. Open **Facebook** Folder in IDE
 
-Run **MainPage.class** file as- **java MainPage**
+2. Run **MainPage.class** file as- **java MainPage**
+
+![How to Run](https://user-images.githubusercontent.com/65342304/128591423-ab96b607-4357-403f-970c-85793323ac31.png) 
+
+
 <hr/>
 
 ### Features ###
-- You can create new account
+- You can Create New Account
 - Login to Your Account
 - Send Friend Request
 - Accept or Delete Friend Request
